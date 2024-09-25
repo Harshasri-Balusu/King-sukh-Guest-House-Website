@@ -21,13 +21,14 @@ Clone the repository using git clone https://github.com/your-username/king-sukh-
 Open the project in your preferred code editor
 Run the website by opening the index.html file in a web browser
 # File Structure
-## index.html: The main entry point of the website
-## css: Folder containing CSS files for styling
-## js: Folder containing JavaScript files for interactivity
-## images: Folder containing images used in the website
-## assests: Folder containing additional assets such as fonts and icons
+### index.html: The main entry point of the website
+### css: Folder containing CSS files for styling
+### js: Folder containing JavaScript files for interactivity
+### images: Folder containing images used in the website
+### assests: Folder containing additional assets such as fonts and icons
 # output
-![Screenshot 2024-09-25 174811](https://github.com/user-attachments/assets/e3a19a48-e3fd-4358-9d95-853a986c3015)
+
+![Screenshot 2024-09-25 175654](https://github.com/user-attachments/assets/9af6ef67-effd-4588-804b-ec45184d674e)
 
 ![Screenshot 2024-09-25 175242](https://github.com/user-attachments/assets/94e58770-a897-49ba-9b70-eb893e2cb61f)
 ![Screenshot 2024-09-25 175320](https://github.com/user-attachments/assets/19a0ec56-89ea-4c9f-b0d7-be13f0825281)
